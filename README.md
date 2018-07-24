@@ -16,8 +16,7 @@
 - [New York Times Article Search API](https://developer.nytimes.com/article_search_v2.json)
 
 ## Installation
-- Visit the deployed site [here](https://nyt-react-scraper-pz.herokuapp.com/) for immediate use.
-- Otherwise, fork and clone the GitHub repo to your machine.
+
 - Ensure that you have Node.js and MongoDB installed on your machine.
 - Retrieve your personal NYT API key [here](https://developer.nytimes.com/)
 - Start MongoDB locally by opening a CLI and entering the ```mongod``` command. Leave this CLI window open in the background.
